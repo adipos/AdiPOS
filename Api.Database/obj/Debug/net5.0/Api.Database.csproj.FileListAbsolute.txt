@@ -1,0 +1,15 @@
+E:\ProjectsAdi\test\AdiPoss\Api.Database\bin\Debug\net5.0\Api.Database.deps.json
+E:\ProjectsAdi\test\AdiPoss\Api.Database\bin\Debug\net5.0\Api.Database.runtimeconfig.json
+E:\ProjectsAdi\test\AdiPoss\Api.Database\bin\Debug\net5.0\Api.Database.runtimeconfig.dev.json
+E:\ProjectsAdi\test\AdiPoss\Api.Database\bin\Debug\net5.0\Api.Database.dll
+E:\ProjectsAdi\test\AdiPoss\Api.Database\bin\Debug\net5.0\ref\Api.Database.dll
+E:\ProjectsAdi\test\AdiPoss\Api.Database\bin\Debug\net5.0\Api.Database.pdb
+E:\ProjectsAdi\test\AdiPoss\Api.Database\obj\Debug\net5.0\Api.Database.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsAdi\test\AdiPoss\Api.Database\obj\Debug\net5.0\Api.Database.AssemblyInfoInputs.cache
+E:\ProjectsAdi\test\AdiPoss\Api.Database\obj\Debug\net5.0\Api.Database.AssemblyInfo.cs
+E:\ProjectsAdi\test\AdiPoss\Api.Database\obj\Debug\net5.0\Api.Database.csproj.CoreCompileInputs.cache
+E:\ProjectsAdi\test\AdiPoss\Api.Database\obj\Debug\net5.0\Api.Database.dll
+E:\ProjectsAdi\test\AdiPoss\Api.Database\obj\Debug\net5.0\ref\Api.Database.dll
+E:\ProjectsAdi\test\AdiPoss\Api.Database\obj\Debug\net5.0\Api.Database.pdb
+E:\ProjectsAdi\test\AdiPoss\Api.Database\obj\Debug\net5.0\Api.Database.genruntimeconfig.cache
+E:\ProjectsAdi\test\AdiPoss\Api.Database\obj\Debug\net5.0\Api.Database.csprojAssemblyReference.cache

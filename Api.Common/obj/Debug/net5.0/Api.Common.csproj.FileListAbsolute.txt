@@ -1,0 +1,11 @@
+E:\ProjectsAdi\test\AdiPoss\Api.Common\bin\Debug\net5.0\Api.Common.deps.json
+E:\ProjectsAdi\test\AdiPoss\Api.Common\bin\Debug\net5.0\Api.Common.dll
+E:\ProjectsAdi\test\AdiPoss\Api.Common\bin\Debug\net5.0\ref\Api.Common.dll
+E:\ProjectsAdi\test\AdiPoss\Api.Common\bin\Debug\net5.0\Api.Common.pdb
+E:\ProjectsAdi\test\AdiPoss\Api.Common\obj\Debug\net5.0\Api.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsAdi\test\AdiPoss\Api.Common\obj\Debug\net5.0\Api.Common.AssemblyInfoInputs.cache
+E:\ProjectsAdi\test\AdiPoss\Api.Common\obj\Debug\net5.0\Api.Common.AssemblyInfo.cs
+E:\ProjectsAdi\test\AdiPoss\Api.Common\obj\Debug\net5.0\Api.Common.csproj.CoreCompileInputs.cache
+E:\ProjectsAdi\test\AdiPoss\Api.Common\obj\Debug\net5.0\Api.Common.dll
+E:\ProjectsAdi\test\AdiPoss\Api.Common\obj\Debug\net5.0\ref\Api.Common.dll
+E:\ProjectsAdi\test\AdiPoss\Api.Common\obj\Debug\net5.0\Api.Common.pdb

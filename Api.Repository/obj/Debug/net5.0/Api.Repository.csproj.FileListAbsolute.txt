@@ -1,0 +1,17 @@
+E:\ProjectsAdi\test\AdiPoss\Api.Repository\bin\Debug\net5.0\Api.Repository.deps.json
+E:\ProjectsAdi\test\AdiPoss\Api.Repository\bin\Debug\net5.0\Api.Repository.dll
+E:\ProjectsAdi\test\AdiPoss\Api.Repository\bin\Debug\net5.0\ref\Api.Repository.dll
+E:\ProjectsAdi\test\AdiPoss\Api.Repository\bin\Debug\net5.0\Api.Repository.pdb
+E:\ProjectsAdi\test\AdiPoss\Api.Repository\bin\Debug\net5.0\Api.Common.dll
+E:\ProjectsAdi\test\AdiPoss\Api.Repository\bin\Debug\net5.0\Api.Database.dll
+E:\ProjectsAdi\test\AdiPoss\Api.Repository\bin\Debug\net5.0\Api.Common.pdb
+E:\ProjectsAdi\test\AdiPoss\Api.Repository\bin\Debug\net5.0\Api.Database.pdb
+E:\ProjectsAdi\test\AdiPoss\Api.Repository\obj\Debug\net5.0\Api.Repository.csprojAssemblyReference.cache
+E:\ProjectsAdi\test\AdiPoss\Api.Repository\obj\Debug\net5.0\Api.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsAdi\test\AdiPoss\Api.Repository\obj\Debug\net5.0\Api.Repository.AssemblyInfoInputs.cache
+E:\ProjectsAdi\test\AdiPoss\Api.Repository\obj\Debug\net5.0\Api.Repository.AssemblyInfo.cs
+E:\ProjectsAdi\test\AdiPoss\Api.Repository\obj\Debug\net5.0\Api.Repository.csproj.CoreCompileInputs.cache
+E:\ProjectsAdi\test\AdiPoss\Api.Repository\obj\Debug\net5.0\Api.Repository.csproj.CopyComplete
+E:\ProjectsAdi\test\AdiPoss\Api.Repository\obj\Debug\net5.0\Api.Repository.dll
+E:\ProjectsAdi\test\AdiPoss\Api.Repository\obj\Debug\net5.0\ref\Api.Repository.dll
+E:\ProjectsAdi\test\AdiPoss\Api.Repository\obj\Debug\net5.0\Api.Repository.pdb
