@@ -1,7 +1,11 @@
 using AdiPos.Data;
+using AdiPos.ViewModels;
+using AdiPos.Views;
 using Avalonia;
 using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.ReactiveUI;
+using ReactiveUI;
+using Splat;
 using System;
 
 namespace AdiPos
@@ -20,9 +24,12 @@ namespace AdiPos
 
         // Avalonia configuration, don't remove; also used by visual designer.
         public static AppBuilder BuildAvaloniaApp()
-            => AppBuilder.Configure<App>()
-                .UsePlatformDetect()
-                .LogToTrace()
-                .UseReactiveUI();
+        {
+            Locator.CurrentMutable.Register(() => new LoginView(), typeof(IViewFor<LoginViewModel>));
+            return AppBuilder.Configure<App>()
+                  .UsePlatformDetect()
+                  .LogToTrace()
+                  .UseReactiveUI();
+        }
     }
 }

@@ -7,9 +7,9 @@ using ReactiveUI;
 
 namespace AdiPos.Views
 {
-    public class MainWindow : ReactiveWindow<MainWindowViewModel>
+    public class LoginView : ReactiveUserControl<LoginViewModel>
     {
-        public MainWindow()
+        public LoginView()
         {
             this.WhenActivated(disposables => { });
             AvaloniaXamlLoader.Load(this);

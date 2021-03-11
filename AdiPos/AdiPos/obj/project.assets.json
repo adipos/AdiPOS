@@ -7648,11 +7648,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ProjectsAdi\\AdiPos\\AdiPOS\\AdiPos\\AdiPos\\AdiPos.csproj",
+      "projectUniqueName": "E:\\ProjectsAdi\\AdiPos\\AdiPos\\AdiPos\\AdiPos\\AdiPos.csproj",
       "projectName": "AdiPos",
-      "projectPath": "E:\\ProjectsAdi\\AdiPos\\AdiPOS\\AdiPos\\AdiPos\\AdiPos.csproj",
+      "projectPath": "E:\\ProjectsAdi\\AdiPos\\AdiPos\\AdiPos\\AdiPos\\AdiPos.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "E:\\ProjectsAdi\\AdiPos\\AdiPOS\\AdiPos\\AdiPos\\obj\\",
+      "outputPath": "E:\\ProjectsAdi\\AdiPos\\AdiPos\\AdiPos\\AdiPos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",

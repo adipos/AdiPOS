@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nWCatXe+sSWmiKQwJ0BvFKJyT+DkZEaj/AZUUiUmJxqiS64pb07Lhc7+m5CEPDhZ30uSpZaWCg33k21NMQjtDg==",
+  "dgSpecHash": "TIquinZWL3A+c2bTAKiw0isuGrQiuZxAL8FplOveiZnBMIbhX0+Twrer1Ednm3Gk9P+PRU1igTW/q0LJPwuBXA==",
   "success": true,
-  "projectFilePath": "E:\\ProjectsAdi\\AdiPos\\AdiPOS\\AdiPos\\AdiPos\\AdiPos.csproj",
+  "projectFilePath": "E:\\ProjectsAdi\\AdiPos\\AdiPos\\AdiPos\\AdiPos\\AdiPos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\avalonia\\0.10.0\\avalonia.0.10.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.0.2020091801\\avalonia.angle.windows.natives.2.1.0.2020091801.nupkg.sha512",
