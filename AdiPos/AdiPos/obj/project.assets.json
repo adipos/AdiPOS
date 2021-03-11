@@ -7643,20 +7643,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\andre\\.nuget\\packages\\": {}
+    "C:\\Users\\gelu1\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ProjectsAdi\\AdiPos\\AdiPOS\\AdiPos\\AdiPos\\AdiPos.csproj",
+      "projectUniqueName": "D:\\Code\\AdiPOS\\AdiPos\\AdiPos\\AdiPos.csproj",
       "projectName": "AdiPos",
-      "projectPath": "E:\\ProjectsAdi\\AdiPos\\AdiPOS\\AdiPos\\AdiPos\\AdiPos.csproj",
-      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "E:\\ProjectsAdi\\AdiPos\\AdiPOS\\AdiPos\\AdiPos\\obj\\",
+      "projectPath": "D:\\Code\\AdiPOS\\AdiPos\\AdiPos\\AdiPos.csproj",
+      "packagesPath": "C:\\Users\\gelu1\\.nuget\\packages\\",
+      "outputPath": "D:\\Code\\AdiPOS\\AdiPos\\AdiPos\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\gelu1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -7741,7 +7746,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
