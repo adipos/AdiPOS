@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ProjectsAdi\\AdiPos\\AdiPos\\AdiPos\\AdiPos.csproj": {}
+    "E:\\ProjectsAdi\\AdiPos\\AdiPOS\\AdiPos\\AdiPos\\AdiPos.csproj": {}
   },
   "projects": {
-    "E:\\ProjectsAdi\\AdiPos\\AdiPos\\AdiPos\\AdiPos.csproj": {
+    "E:\\ProjectsAdi\\AdiPos\\AdiPOS\\AdiPos\\AdiPos\\AdiPos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProjectsAdi\\AdiPos\\AdiPos\\AdiPos\\AdiPos.csproj",
+        "projectUniqueName": "E:\\ProjectsAdi\\AdiPos\\AdiPOS\\AdiPos\\AdiPos\\AdiPos.csproj",
         "projectName": "AdiPos",
-        "projectPath": "E:\\ProjectsAdi\\AdiPos\\AdiPos\\AdiPos\\AdiPos.csproj",
+        "projectPath": "E:\\ProjectsAdi\\AdiPos\\AdiPOS\\AdiPos\\AdiPos\\AdiPos.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "E:\\ProjectsAdi\\AdiPos\\AdiPos\\AdiPos\\obj\\",
+        "outputPath": "E:\\ProjectsAdi\\AdiPos\\AdiPOS\\AdiPos\\AdiPos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,6 +56,10 @@
               "target": "Package",
               "version": "[0.10.0, )"
             },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.4, )"
@@ -73,6 +77,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
               "target": "Package",
               "version": "[5.0.4, )"
             }

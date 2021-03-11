@@ -29,6 +29,9 @@ C:\Users\andre\.nuget\packages\avalonia.x11\0.10.0\lib\netstandard2.0\Avalonia.X
 C:\Users\andre\.nuget\packages\dynamicdata\6.17.14\lib\netstandard2.0\DynamicData.dll
 C:\Users\andre\.nuget\packages\harfbuzzsharp\2.6.1.7\lib\netstandard2.0\HarfBuzzSharp.dll
 C:\Users\andre\.nuget\packages\jetbrains.annotations\10.3.0\lib\netstandard1.0\JetBrains.Annotations.dll
+C:\Users\andre\.nuget\packages\microsoft.aspnetcore.cryptography.internal\5.0.4\lib\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\andre\.nuget\packages\microsoft.aspnetcore.cryptography.keyderivation\5.0.4\lib\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\andre\.nuget\packages\microsoft.aspnetcore.identity.entityframeworkcore\5.0.4\lib\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\andre\.nuget\packages\microsoft.codeanalysis.csharp\3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\andre\.nuget\packages\microsoft.codeanalysis.csharp.scripting\3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
 C:\Users\andre\.nuget\packages\microsoft.codeanalysis.common\3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.dll
@@ -44,6 +47,8 @@ C:\Users\andre\.nuget\packages\microsoft.extensions.caching.memory\5.0.0\lib\net
 C:\Users\andre\.nuget\packages\microsoft.extensions.configuration.abstractions\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\andre\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\5.0.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\andre\.nuget\packages\microsoft.extensions.dependencyinjection\5.0.1\lib\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andre\.nuget\packages\microsoft.extensions.identity.core\5.0.4\lib\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\andre\.nuget\packages\microsoft.extensions.identity.stores\5.0.4\lib\net5.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\andre\.nuget\packages\microsoft.extensions.logging.abstractions\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\andre\.nuget\packages\microsoft.extensions.logging\5.0.0\lib\netstandard2.1\Microsoft.Extensions.Logging.dll
 C:\Users\andre\.nuget\packages\microsoft.extensions.options\5.0.0\lib\net5.0\Microsoft.Extensions.Options.dll

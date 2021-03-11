@@ -1,4 +1,5 @@
 ﻿using AdiPos.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace AdiPos.Data
 {
-    public class ApiContext : DbContext
+    public class ApiContext : IdentityDbContext<ApplicationUser, ApplicationRole, int>
     {
         public DbSet<Products> Products { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
