@@ -2493,7 +2493,6 @@
       "path": "avalonia.remote.protocol/0.10.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "Icon.png",
         "avalonia.remote.protocol.0.10.0.nupkg.sha512",
         "avalonia.remote.protocol.nuspec",
@@ -2507,7 +2506,6 @@
       "path": "avalonia.skia/0.10.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "Icon.png",
         "avalonia.skia.0.10.0.nupkg.sha512",
         "avalonia.skia.nuspec",
@@ -2521,7 +2519,6 @@
       "path": "avalonia.win32/0.10.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "Icon.png",
         "avalonia.win32.0.10.0.nupkg.sha512",
         "avalonia.win32.nuspec",
@@ -2535,7 +2532,6 @@
       "path": "avalonia.x11/0.10.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "Icon.png",
         "avalonia.x11.0.10.0.nupkg.sha512",
         "avalonia.x11.nuspec",
@@ -7649,19 +7645,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "E:\\ProjectsAdi\\AdiPos\\AdiPos\\AdiPos\\AdiPos\\AdiPos.csproj",
-      "projectName": "AdiPos",
-      "projectPath": "E:\\ProjectsAdi\\AdiPos\\AdiPos\\AdiPos\\AdiPos\\AdiPos.csproj",
-      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "E:\\ProjectsAdi\\AdiPos\\AdiPos\\AdiPos\\AdiPos\\obj\\",
-=======
       "projectUniqueName": "D:\\Code\\AdiPOS\\AdiPos\\AdiPos\\AdiPos.csproj",
       "projectName": "AdiPos",
       "projectPath": "D:\\Code\\AdiPOS\\AdiPos\\AdiPos\\AdiPos.csproj",
       "packagesPath": "C:\\Users\\gelu1\\.nuget\\packages\\",
       "outputPath": "D:\\Code\\AdiPOS\\AdiPos\\AdiPos\\obj\\",
->>>>>>> 4003d8988a2bb6f2b27ab8d85ce904513ce863fc
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
